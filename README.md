@@ -16,7 +16,7 @@ The goal of the analysis includes:
 * Pt 4
 
 ## Data Source
-
+Excel, SQL, PPT, PowerBI, Web...
 
 ## Data Modelling
 
